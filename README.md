@@ -1,4 +1,7 @@
-# 👋 Hi, I'm a Java Backend Engineer
+# 👋 Hi, I'm a Backend Engineer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=I%20am%20Mrinal&textBg=false&fontColor=d863ff&fontSize=90&fontAlign=49&animation=blink&stroke=ffffff&strokeWidth=-14&desc=Backend%20Developer&descAlignY=66&descSize=21&descAlign=32"/>
+</p>
 
 🚀 **Java Developer** focused on building **scalable backend systems**, **microservices**, and **modern APIs** using **Spring Boot**, **gRPC**, and **GraphQL**.  
 Currently exploring **AI Agent development** and **LLM-powered backend workflows**.
