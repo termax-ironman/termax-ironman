@@ -18,6 +18,20 @@ def bullets(items):
     return "\n".join(f"- {item}" for item in items)
 
 
+def render_icons(icons, size):
+    html = ['<p align="center">']
+    for icon in icons:
+        html.append(
+            f'<img src="{icon["url"]}" '
+            f'title="{icon["name"]}" '
+            f'alt="{icon["name"]}" '
+            f'width="{size}" height="{size}" '
+            f'style="margin: 10px;" />'
+        )
+    html.append("</p>")
+    return "\n".join(html)
+
+
 def generate_section(data):
     profile = data.get("profile", {})
     links = data.get("links", {})
@@ -48,12 +62,19 @@ def generate_section(data):
         ("Microservices & APIs", "microservices"),
         ("AI & Agent Systems", "ai_and_agents"),
         ("Databases", "databases"),
-        ("Tools", "tools"),
         ("Cloud & DevOps", "cloud_devops"),
     ]:
         if key in tech:
             out.append(f"### {title}\n")
             out.append(bullets(tech[key]) + "\n")
+
+    if "tools_icons" in tech:
+        icons_cfg = tech["tools_icons"]
+        icons = icons_cfg.get("icons", [])
+        size = icons_cfg.get("size", 48)
+        if icons:
+            out.append("### Tools\n")
+            out.append(render_icons(icons, size) + "\n")
 
     if projects:
         out.append("## 📂 Projects\n")
@@ -107,17 +128,10 @@ def update_readme(auto_content):
     before = readme.split(START)[0]
     after = readme.split(END)[1]
 
-    new_readme = (
-        before
-        + START
-        + "\n"
-        + auto_content
-        + "\n"
-        + END
-        + after
+    README_FILE.write_text(
+        before + START + "\n" + auto_content + "\n" + END + after,
+        encoding="utf-8",
     )
-
-    README_FILE.write_text(new_readme, encoding="utf-8")
 
 
 if __name__ == "__main__":

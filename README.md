@@ -50,21 +50,38 @@ Java Backend Engineer specializing in Spring Boot, Microservices, gRPC, and Grap
 - MongoDB
 - Hibernate / JPA
 
-### Tools
-
-- Maven
-- Gradle
-- Git
-- GitHub
-- Docker (Basics)
-- Postman
-- Swagger / OpenAPI
-
 ### Cloud & DevOps
 
 - Docker
 - Kubernetes (Basics)
 - CI/CD fundamentals
+
+### Tools
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" title="Java" alt="Java" width="48" height="48" style="margin: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="48" height="48" style="margin: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" title="MySQL" alt="MySQL" width="48" height="48" style="margin: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg" title="JSON" alt="JSON" width="48" height="48" style="margin: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-plain.svg" title="gRPC" alt="gRPC" width="48" height="48" style="margin: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="48" height="48" style="margin: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" title="Kafka" alt="Kafka" width="48" height="48" style="margin: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="48" height="48" style="margin: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg" title="Eclipse" alt="Eclipse" width="48" height="48" style="margin: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="48" height="48" style="margin: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-plain-wordmark.svg" title="IntelliJ" alt="IntelliJ" width="48" height="48" style="margin: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="48" height="48" style="margin: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg" title="JUnit" alt="JUnit" width="48" height="48" style="margin: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original-wordmark.svg" title="Kibana" alt="Kibana" width="48" height="48" style="margin: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="48" height="48" style="margin: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original-wordmark.svg" title="LeetCode" alt="LeetCode" width="48" height="48" style="margin: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="48" height="48" style="margin: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="48" height="48" style="margin: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Redis" width="48" height="48" style="margin: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original-wordmark.svg" title="SonarQube" alt="SonarQube" width="48" height="48" style="margin: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-plain-wordmark.svg" title="Swagger" alt="Swagger" width="48" height="48" style="margin: 10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original-wordmark.svg" title="Tomcat" alt="Tomcat" width="48" height="48" style="margin: 10px;" />
+</p>
 
 ## 📂 Projects
 

@@ -54,19 +54,58 @@ tech_stack:
     - MongoDB
     - Hibernate / JPA
 
-  tools:
-    - Maven
-    - Gradle
-    - Git
-    - GitHub
-    - Docker (Basics)
-    - Postman
-    - Swagger / OpenAPI
-
   cloud_devops:
     - Docker
     - Kubernetes (Basics)
     - CI/CD fundamentals
+
+  tools_icons:
+    size: 48
+    icons:
+      - name: Java
+        url: https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg
+      - name: Spring
+        url: https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg
+      - name: MySQL
+        url: https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg
+      - name: JSON
+        url: https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-plain.svg
+      - name: gRPC
+        url: https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-plain.svg
+      - name: GraphQL
+        url: https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg
+      - name: Kafka
+        url: https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg
+      - name: Docker
+        url: https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg
+      - name: Eclipse
+        url: https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg
+      - name: Git
+        url: https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg
+      - name: IntelliJ
+        url: https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-plain-wordmark.svg
+      - name: Jenkins
+        url: https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg
+      - name: JUnit
+        url: https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg
+      - name: Kibana
+        url: https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original-wordmark.svg
+      - name: Kubernetes
+        url: https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg
+      - name: LeetCode
+        url: https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original-wordmark.svg
+      - name: MongoDB
+        url: https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg
+      - name: Postman
+        url: https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg
+      - name: Redis
+        url: https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg
+      - name: SonarQube
+        url: https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original-wordmark.svg
+      - name: Swagger
+        url: https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-plain-wordmark.svg
+      - name: Tomcat
+        url: https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original-wordmark.svg
 
 projects:
   - category: "Spring Boot REST APIs"
@@ -97,6 +136,7 @@ projects:
 
 problem_solving:
   platform: "LeetCode"
+  profile_url: "https://leetcode.com/u/termax-ironman/"
   focus:
     - Arrays
     - Linked List
@@ -105,7 +145,6 @@ problem_solving:
     - Graphs
     - Dynamic Programming
     - Greedy Algorithms
-  profile_url: "https://leetcode.com/u/termax-ironman/"
 
 learning:
   current:
