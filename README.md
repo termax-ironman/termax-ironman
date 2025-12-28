@@ -162,3 +162,4 @@ Open to collaboration and learning opportunities
 ⭐ This section is **auto-generated** from `profile.yaml`.
 
 <!-- AUTO-GENERATED-END -->
+![GitHub Snake Light](https://raw.githubusercontent.com/termax-ironman/termax-ironman/output/github-contribution-grid-snake.svg)
