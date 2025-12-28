@@ -15,9 +15,6 @@ Currently exploring **AI Agent development** and **LLM-powered backend workflows
 - 📚 Focused on **clean code**, **SOLID principles**, and **system design**
 
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
 
 ## 🛠 Tech Stack
 
