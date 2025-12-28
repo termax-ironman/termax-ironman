@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=I%20am%20Mrinal&textBg=false&fontColor=d863ff&fontSize=90&fontAlign=49&animation=blink&stroke=ffffff&strokeWidth=-14&desc=Backend%20Developer&descAlignY=66&descSize=21&descAlign=32"/>
 </p>
-```yaml
+```yaml *
 profile:
   name: "Java Backend Engineer"
   tagline: "Building scalable backend systems with Java, Spring Boot & AI"
@@ -132,5 +132,5 @@ contact:
     - Spring Boot
     - Microservices
     - AI Agent systems
-  note: "Open to collaboration and learning opportunities"
+  note: "Open to collaboration and learning opportunities" * 
 ```
