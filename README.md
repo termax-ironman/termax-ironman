@@ -169,7 +169,7 @@ Open to collaboration and learning opportunities
 
 
 ---
-⭐ This section is **auto-generated** from `profile.yaml`.
+⭐ 
 
 <!-- AUTO-GENERATED-END -->
 <picture>
