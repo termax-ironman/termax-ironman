@@ -1,10 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=I%20am%20Mrinal&textBg=false&fontColor=d863ff&fontSize=90&fontAlign=49&animation=blink&stroke=ffffff&strokeWidth=-14&desc=Backend%20Developer&descAlignY=66&descSize=21&descAlign=32"/>
 </p>
-```yaml *
 profile:
   name: "Java Backend Engineer"
-  tagline: "Building scalable backend systems with Java, Spring Boot & AI"
+  tagline: "Building scalable backend systems with Java, Spring Boot, gRPC, GraphQL & AI"
   summary: >
     Java Backend Engineer specializing in Spring Boot, Microservices,
     gRPC, and GraphQL. Passionate about clean architecture, system design,
@@ -13,7 +12,7 @@ profile:
 about:
   role: "Backend Engineer"
   focus:
-    - Java & OOP fundamentals
+    - Core Java & OOP
     - Spring Boot & REST API design
     - Microservices architecture
     - gRPC & GraphQL
@@ -53,8 +52,7 @@ tech_stack:
     - MySQL
     - PostgreSQL
     - MongoDB
-    - Hibernate
-    - JPA
+    - Hibernate / JPA
 
   tools:
     - Maven
@@ -89,7 +87,7 @@ projects:
       - Schema design
       - Resolvers
       - Optimized data fetching
-      - Backend-for-Frontend pattern
+      - Backend-for-Frontend (BFF) pattern
 
   - category: "AI Agent Projects"
     details:
@@ -121,7 +119,6 @@ goals:
     - Strengthen backend system design
     - Build production-ready microservices
     - Develop AI-powered backend systems
-
   long_term:
     - Backend Architect / Platform Engineer
     - Expertise in distributed systems & AI integration
@@ -132,5 +129,4 @@ contact:
     - Spring Boot
     - Microservices
     - AI Agent systems
-  note: "Open to collaboration and learning opportunities" * 
-```
+  note: "Open to collaboration and learning opportunities"
