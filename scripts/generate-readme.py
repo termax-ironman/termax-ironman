@@ -111,11 +111,6 @@ def generate_section(data):
         if contact.get("note"):
             out.append(contact["note"] + "\n")
 
-    out.append(
-        "\n---\n"
-        "⭐ \n"
-    )
-
     return "\n".join(out)
 
 

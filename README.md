@@ -167,10 +167,6 @@ Java Backend Engineer specializing in Spring Boot, Microservices, gRPC, and Grap
 
 Open to collaboration and learning opportunities
 
-
----
-⭐ 
-
 <!-- AUTO-GENERATED-END -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/termax-ironman/termax-ironman/output/github-contribution-grid-snake-dark.svg" />
