@@ -1,10 +1,13 @@
 profile:
   name: "Java Backend Engineer"
-  tagline: "Building scalable backend systems with Java, Spring Boot, gRPC, GraphQL & AI"
+  tagline: "Java | Spring Boot | Microservices | gRPC | GraphQL | AI"
   summary: >
     Java Backend Engineer specializing in Spring Boot, Microservices,
     gRPC, and GraphQL. Passionate about clean architecture, system design,
     and building AI-powered backend workflows.
+
+links:
+  leetcode: "https://leetcode.com/u/termax-ironman/"
 
 about:
   role: "Backend Engineer"

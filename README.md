@@ -1,9 +1,147 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=I%20am%20Mrinal&textBg=false&fontColor=d863ff&fontSize=90&fontAlign=49&animation=blink&stroke=ffffff&strokeWidth=-14&desc=Backend%20Developer&descAlignY=66&descSize=21&descAlign=32"/>
 </p>
-In README.md:
 
-```md
-## 📄 Profile Definition (YAML)
+<!-- AUTO-GENERATED-START -->
+# 👋 Java Backend Engineer
 
-👉 [View profile.yaml](./profile.yaml)
+**Java | Spring Boot | Microservices | gRPC | GraphQL | AI**
+
+Java Backend Engineer specializing in Spring Boot, Microservices, gRPC, and GraphQL. Passionate about clean architecture, system design, and building AI-powered backend workflows.
+
+
+## 🔗 Profiles
+
+- 🧠 LeetCode: https://leetcode.com/u/termax-ironman/
+
+## 🛠 Tech Stack
+
+### Languages
+
+- Java (8+)
+
+### Frameworks
+
+- Spring Boot
+- Spring MVC
+- Spring Data JPA
+- Spring Security
+
+### Microservices & APIs
+
+- RESTful APIs
+- gRPC
+- GraphQL
+- API Gateway
+- Service Discovery
+- Load Balancing
+
+### AI & Agent Systems
+
+- AI Agent Building
+- LLM-based workflows
+- Tool-using agents
+- Backend + AI integrations
+
+### Databases
+
+- MySQL
+- PostgreSQL
+- MongoDB
+- Hibernate / JPA
+
+### Tools
+
+- Maven
+- Gradle
+- Git
+- GitHub
+- Docker (Basics)
+- Postman
+- Swagger / OpenAPI
+
+### Cloud & DevOps
+
+- Docker
+- Kubernetes (Basics)
+- CI/CD fundamentals
+
+## 📂 Projects
+
+### Spring Boot REST APIs
+
+- CRUD APIs
+- Validation & exception handling
+- Pagination, sorting & filtering
+- Spring Security based authentication
+
+### Microservices & Distributed Systems
+
+- REST & gRPC communication
+- Centralized configuration
+- Scalable service-oriented architecture
+
+### GraphQL APIs
+
+- Schema design
+- Resolvers
+- Optimized data fetching
+- Backend-for-Frontend (BFF) pattern
+
+### AI Agent Projects
+
+- Tool-based AI agents
+- Multi-step reasoning workflows
+- Java-based agent orchestration
+
+## 🧠 DSA & Problem Solving
+
+- Platform: LeetCode
+
+- Profile: https://leetcode.com/u/termax-ironman/
+
+
+### Focus Areas
+
+- Arrays
+- Linked List
+- Stack & Queue
+- Trees & BST
+- Graphs
+- Dynamic Programming
+- Greedy Algorithms
+
+## 📚 Currently Learning
+
+- Advanced Microservices Patterns
+- Distributed System Design
+- AI Agents & LLM Infrastructure
+- Cloud-native Spring Boot
+
+## 🎯 Goals
+
+### Short Term
+
+- Strengthen backend system design
+- Build production-ready microservices
+- Develop AI-powered backend systems
+
+### Long Term
+
+- Backend Architect / Platform Engineer
+- Expertise in distributed systems & AI integration
+
+## 🤝 Collaboration
+
+- Java
+- Spring Boot
+- Microservices
+- AI Agent systems
+
+Open to collaboration and learning opportunities
+
+
+---
+⭐ This section is **auto-generated** from `profile.yaml`.
+
+<!-- AUTO-GENERATED-END -->
