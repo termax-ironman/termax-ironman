@@ -113,7 +113,7 @@ def generate_section(data):
 
     out.append(
         "\n---\n"
-        "⭐ This section is **auto-generated** from `profile.yaml`.\n"
+        "⭐ \n"
     )
 
     return "\n".join(out)
