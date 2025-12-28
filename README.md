@@ -1,6 +1,16 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=I%20am%20Mrinal&textBg=false&fontColor=d863ff&fontSize=90&fontAlign=49&animation=blink&stroke=ffffff&strokeWidth=-14&desc=Backend%20Developer&descAlignY=66&descSize=21&descAlign=32"/>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=termax-ironman&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/termax-ironman/termax-ironman" />
+  <img src="https://img.shields.io/github/forks/termax-ironman/termax-ironman" />
+  <img src="https://img.shields.io/github/watchers/termax-ironman/termax-ironman" />
+</p>
+
 
 <!-- AUTO-GENERATED-START -->
 # 👋 Java Backend Engineer
