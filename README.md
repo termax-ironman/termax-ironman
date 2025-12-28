@@ -1,130 +1,136 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=I%20am%20Mrinal&textBg=false&fontColor=d863ff&fontSize=90&fontAlign=49&animation=blink&stroke=ffffff&strokeWidth=-14&desc=Backend%20Developer&descAlignY=66&descSize=21&descAlign=32"/>
 </p>
+```yaml
+profile:
+  name: "Java Backend Engineer"
+  tagline: "Building scalable backend systems with Java, Spring Boot & AI"
+  summary: >
+    Java Backend Engineer specializing in Spring Boot, Microservices,
+    gRPC, and GraphQL. Passionate about clean architecture, system design,
+    and building AI-powered backend workflows.
 
-🚀 **Java Developer** focused on building **scalable backend systems**, **microservices**, and **modern APIs** using **Spring Boot**, **gRPC**, and **GraphQL**.  
-Currently exploring **AI Agent development** and **LLM-powered backend workflows**.
+about:
+  role: "Backend Engineer"
+  focus:
+    - Java & OOP fundamentals
+    - Spring Boot & REST API design
+    - Microservices architecture
+    - gRPC & GraphQL
+    - AI Agent building
+    - Data Structures & Algorithms
+  principles:
+    - Clean Code
+    - SOLID Principles
+    - Design Patterns
+    - Scalable System Design
 
----
+tech_stack:
+  languages:
+    - Java (8+)
 
-## 🧑‍💻 About Me
+  frameworks:
+    - Spring Boot
+    - Spring MVC
+    - Spring Data JPA
+    - Spring Security
 
-- 💼 Backend Engineer with strong fundamentals in **Core Java & OOP**
-- ⚙️ Experienced in **Spring Boot**, **Microservices**, and **API Design**
-- 🔌 Hands-on with **gRPC** and **GraphQL**
-- 🤖 Building and experimenting with **AI Agents**
-- 🧠 Strong problem-solving mindset with consistent **LeetCode practice**
-- 📚 Focused on **clean code**, **SOLID principles**, and **system design**
+  microservices:
+    - RESTful APIs
+    - gRPC
+    - GraphQL
+    - API Gateway
+    - Service Discovery
+    - Load Balancing
 
----
+  ai_and_agents:
+    - AI Agent Building
+    - LLM-based workflows
+    - Tool-using agents
+    - Backend + AI integrations
 
-## 🛠 Tech Stack
+  databases:
+    - MySQL
+    - PostgreSQL
+    - MongoDB
+    - Hibernate
+    - JPA
 
-### 💡 Languages
-- **Java (Java 8+)**
+  tools:
+    - Maven
+    - Gradle
+    - Git
+    - GitHub
+    - Docker (Basics)
+    - Postman
+    - Swagger / OpenAPI
 
-### 🌱 Backend Frameworks
-- Spring Boot  
-- Spring MVC  
-- Spring Data JPA  
-- Spring Security  
+  cloud_devops:
+    - Docker
+    - Kubernetes (Basics)
+    - CI/CD fundamentals
 
-### 🧩 Microservices & Architecture
-- Microservices Architecture  
-- RESTful APIs  
-- gRPC (High-performance inter-service communication)  
-- GraphQL (Flexible API querying)  
-- API Gateway  
-- Service Discovery & Load Balancing  
+projects:
+  - category: "Spring Boot REST APIs"
+    details:
+      - CRUD APIs
+      - Validation & exception handling
+      - Pagination, sorting & filtering
+      - Spring Security based authentication
 
-### 🧠 AI & Agentic Systems
-- AI Agent Building (Tools, Memory, Planning)
-- LLM-based workflow orchestration
-- Backend + AI integrations
+  - category: "Microservices & Distributed Systems"
+    details:
+      - REST & gRPC communication
+      - Centralized configuration
+      - Scalable service-oriented architecture
 
-### 🗄 Databases
-- MySQL  
-- PostgreSQL  
-- MongoDB  
-- Hibernate / JPA  
+  - category: "GraphQL APIs"
+    details:
+      - Schema design
+      - Resolvers
+      - Optimized data fetching
+      - Backend-for-Frontend pattern
 
-### ⚙️ Tools & Technologies
-- Maven / Gradle  
-- Git & GitHub  
-- Docker (Basics)  
-- Postman  
-- Swagger / OpenAPI  
+  - category: "AI Agent Projects"
+    details:
+      - Tool-based AI agents
+      - Multi-step reasoning workflows
+      - Java-based agent orchestration
 
-### ☁️ Cloud & DevOps (Learning / Basics)
-- Docker  
-- Kubernetes (Basics)  
-- CI/CD fundamentals  
+problem_solving:
+  platform: "LeetCode"
+  focus:
+    - Arrays
+    - Linked List
+    - Stack & Queue
+    - Trees & BST
+    - Graphs
+    - Dynamic Programming
+    - Greedy Algorithms
+  profile_url: "https://leetcode.com/u/termax-ironman/"
 
----
+learning:
+  current:
+    - Advanced Microservices Patterns
+    - Distributed System Design
+    - AI Agents & LLM Infrastructure
+    - Cloud-native Spring Boot
 
-## 📂 Featured Projects
+goals:
+  short_term:
+    - Strengthen backend system design
+    - Build production-ready microservices
+    - Develop AI-powered backend systems
 
-🔹 **Spring Boot REST APIs**
-- CRUD APIs with validation & exception handling  
-- Pagination, sorting & filtering  
-- Secure APIs using Spring Security  
+  long_term:
+    - Backend Architect / Platform Engineer
+    - Expertise in distributed systems & AI integration
 
-🔹 **Microservices & Distributed Systems**
-- REST + gRPC based communication  
-- API Gateway & centralized configuration  
-- Scalable service-oriented architecture  
-
-🔹 **GraphQL APIs**
-- Schema design & resolvers  
-- Optimized data fetching  
-- Backend-for-Frontend (BFF) pattern  
-
-🔹 **AI Agent Projects**
-- Tool-using AI agents  
-- Multi-step reasoning workflows  
-- Java-based agent orchestration  
-
-*(Check repositories for detailed implementations and documentation)*
-
----
-
-## 🧠 DSA & Problem Solving
-
-- 🔢 Actively solving **Data Structures & Algorithms**
-- 📈 Focus on Arrays, Trees, Graphs, DP & Greedy patterns
-
-👉 **LeetCode Profile:**  
-🔗 https://leetcode.com/u/termax-ironman/
-
----
-
-## 📈 What I Focus On
-
-- Writing **clean, maintainable Java code**
-- Designing **scalable & fault-tolerant systems**
-- High-performance APIs using **gRPC**
-- Flexible APIs using **GraphQL**
-- Backend-driven **AI Agent systems**
-- Interview-oriented **DSA & System Design**
-
----
-
-## 📚 Currently Learning
-
-- Advanced Microservices Patterns  
-- Distributed System Design  
-- AI Agents & LLM Infrastructure  
-- Cloud-native Spring Boot applications  
-
----
-
-## 🤝 Let’s Connect
-
-- 💬 Open to collaboration on **Java, Spring Boot, Microservices & AI projects**
-- 🌱 Always eager to learn and share knowledge  
-
-⭐ If you find my work useful, consider **starring** the repositories!
-
----
-
-**Happy Coding ☕ | Build Scalable Systems 🚀**
+contact:
+  collaboration:
+    - Java
+    - Spring Boot
+    - Microservices
+    - AI Agent systems
+  note: "Open to collaboration and learning opportunities"
+```
