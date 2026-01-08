@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate snake SVG
-        uses: Platane/snk@v3
+        uses: Platane/snk@v4
         with:
           github_user_name: termax-ironman
           outputs: |
