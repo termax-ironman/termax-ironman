@@ -169,8 +169,12 @@ Open to collaboration and learning opportunities
 
 <!-- AUTO-GENERATED-END -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/termax-ironman/termax-ironman/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/termax-ironman/termax-ironman/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/termax-ironman/termax-ironman/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/termax-ironman/termax-ironman/output/snake-rainbow-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/termax-ironman/termax-ironman/output/snake-rainbow.svg" />
+  <img alt="github contribution snake"
+       src="https://raw.githubusercontent.com/termax-ironman/termax-ironman/output/snake-rainbow.svg" />
 </picture>
+
 
