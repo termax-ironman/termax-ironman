@@ -9,13 +9,13 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate rainbow snake
+      - name: Generate Iron Man snake
         uses: Platane/snk@v3
         with:
           github_user_name: termax-ironman
           outputs: |
-            dist/snake-rainbow.svg?color_snake=rainbow
-            dist/snake-rainbow-dark.svg?palette=github-dark&color_snake=rainbow
+            dist/snake-ironman.svg?color_snake=#ff0000,#ffae00
+            dist/snake-ironman-dark.svg?palette=github-dark&color_snake=#ff3c00,#ffd700
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
